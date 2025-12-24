@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "E:/CO/ISE/ISE_Project/Block_and_Non_Block/blocked_and_non_blocked.xst" -ofn "E:/CO/ISE/ISE_Project/Block_and_Non_Block/blocked_and_non_blocked.syr" 

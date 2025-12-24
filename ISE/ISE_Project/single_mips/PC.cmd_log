@@ -1,0 +1,2 @@
+vhdtdtfi -lib work E:/CO/ISE/ISE_Project/mips/PC.v -lang verilog -prj mips -o PC.spl -module PC -template E:/CO/ISE/ISE_software/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family aspartan6 PC.spl E:/CO/ISE/ISE_Project/mips/PC.sym 

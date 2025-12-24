@@ -1,0 +1,28 @@
+Command line:
+   note_recorder_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  56632
+
+Tue Oct 21 10:38:05 2025
+
+
+ Elaboration Time: 0.015625 sec
+
+ Current Memory Usage: 5171.25 Meg
+
+ Total Signals          : 20
+ Total Nets             : 38
+ Total Signal Drivers   : 12
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 18
+ Total Traceable Variables  : 28
+ Total Scalar Nets and Variables : 567
+
+ Total Simulation Time: 0.09375 sec
+
+ Current Memory Usage: 5171.25 Meg
+
+Tue Oct 21 10:38:14 2025
+

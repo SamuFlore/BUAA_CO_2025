@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/CO/ISE/ISE_Project/pipeline_mips_edited/CMP.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">E:/CO/ISE/ISE_Project/pipeline_mips_edited/CMP.v</arg>&quot; Line <arg fmt="%d" index="2">24</arg>. <arg fmt="%s" index="3">Include file found: &apos;E:/CO/ISE/ISE_Project/pipeline_mips_edited/CONST.v&apos; in file &quot;E:/CO/ISE/ISE_Project/pipeline_mips_edited/CMP.v&quot; line 24
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/CO/ISE/ISE_Project/pipeline_mips_edited/Controller.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">E:/CO/ISE/ISE_Project/pipeline_mips_edited/Controller.v</arg>&quot; Line <arg fmt="%d" index="2">22</arg>. <arg fmt="%s" index="3">Include file found: &apos;E:/CO/ISE/ISE_Project/pipeline_mips_edited/CONST.v&apos; in file &quot;E:/CO/ISE/ISE_Project/pipeline_mips_edited/Controller.v&quot; line 22
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/CO/ISE/ISE_Project/pipeline_mips_edited/DE_REG.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/CO/ISE/ISE_Project/pipeline_mips_edited/EM_REG.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/CO/ISE/ISE_Project/pipeline_mips_edited/EXT.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/CO/ISE/ISE_Project/pipeline_mips_edited/FD_REG.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/CO/ISE/ISE_Project/pipeline_mips_edited/GRF.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/CO/ISE/ISE_Project/pipeline_mips_edited/LoadType.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">E:/CO/ISE/ISE_Project/pipeline_mips_edited/LoadType.v</arg>&quot; Line <arg fmt="%d" index="2">22</arg>. <arg fmt="%s" index="3">Include file found: &apos;E:/CO/ISE/ISE_Project/pipeline_mips_edited/CONST.v&apos; in file &quot;E:/CO/ISE/ISE_Project/pipeline_mips_edited/LoadType.v&quot; line 22
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/CO/ISE/ISE_Project/pipeline_mips_edited/MDU.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">E:/CO/ISE/ISE_Project/pipeline_mips_edited/MDU.v</arg>&quot; Line <arg fmt="%d" index="2">22</arg>. <arg fmt="%s" index="3">Include file found: &apos;E:/CO/ISE/ISE_Project/pipeline_mips_edited/CONST.v&apos; in file &quot;E:/CO/ISE/ISE_Project/pipeline_mips_edited/MDU.v&quot; line 22
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/CO/ISE/ISE_Project/pipeline_mips_edited/MW_REG.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/CO/ISE/ISE_Project/pipeline_mips_edited/NPC.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/CO/ISE/ISE_Project/pipeline_mips_edited/PC.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/CO/ISE/ISE_Project/pipeline_mips_edited/StoreType.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">E:/CO/ISE/ISE_Project/pipeline_mips_edited/StoreType.v</arg>&quot; Line <arg fmt="%d" index="2">22</arg>. <arg fmt="%s" index="3">Include file found: &apos;E:/CO/ISE/ISE_Project/pipeline_mips_edited/CONST.v&apos; in file &quot;E:/CO/ISE/ISE_Project/pipeline_mips_edited/StoreType.v&quot; line 22
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/CO/ISE/ISE_Project/pipeline_mips_edited/mips.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">E:/CO/ISE/ISE_Project/pipeline_mips_edited/mips.v</arg>&quot; Line <arg fmt="%d" index="2">22</arg>. <arg fmt="%s" index="3">Include file found: &apos;E:/CO/ISE/ISE_Project/pipeline_mips_edited/CONST.v&apos; in file &quot;E:/CO/ISE/ISE_Project/pipeline_mips_edited/mips.v&quot; line 22
+</arg>
+</msg>
+
+</messages>
+

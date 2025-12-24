@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "E:/CO/ISE/ISE_Project/counter/AndGate_tb_isim_beh.exe" -prj "E:/CO/ISE/ISE_Project/counter/AndGate_tb_beh.prj" "work.AndGate_tb" "work.glbl" 

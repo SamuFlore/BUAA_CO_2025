@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "E:/CO/ISE/ISE_Project/note_recorder/note_recorder_tb_isim_beh.exe" -prj "E:/CO/ISE/ISE_Project/note_recorder/note_recorder_tb_beh.prj" "work.note_recorder_tb" "work.glbl" 

@@ -1,0 +1,51 @@
+Running: E:\CO\ISE\ISE_software\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o E:/CO/ISE/ISE_Project/pipeline_mips_edited/mips_txt_isim_beh.exe -prj E:/CO/ISE/ISE_Project/pipeline_mips_edited/mips_txt_beh.prj work.mips_txt work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 32
+Turning on mult-threading, number of parallel sub-compilation jobs: 64 
+Determining compilation order of HDL files
+Analyzing Verilog file "E:/CO/ISE/ISE_Project/pipeline_mips_edited/StoreType.v" into library work
+Analyzing Verilog file "E:/CO/ISE/ISE_Project/pipeline_mips_edited/PC.v" into library work
+Analyzing Verilog file "E:/CO/ISE/ISE_Project/pipeline_mips_edited/NPC.v" into library work
+Analyzing Verilog file "E:/CO/ISE/ISE_Project/pipeline_mips_edited/MW_REG.v" into library work
+Analyzing Verilog file "E:/CO/ISE/ISE_Project/pipeline_mips_edited/MDU.v" into library work
+Analyzing Verilog file "E:/CO/ISE/ISE_Project/pipeline_mips_edited/LoadType.v" into library work
+Analyzing Verilog file "E:/CO/ISE/ISE_Project/pipeline_mips_edited/GRF.v" into library work
+Analyzing Verilog file "E:/CO/ISE/ISE_Project/pipeline_mips_edited/FD_REG.v" into library work
+Analyzing Verilog file "E:/CO/ISE/ISE_Project/pipeline_mips_edited/EXT.v" into library work
+Analyzing Verilog file "E:/CO/ISE/ISE_Project/pipeline_mips_edited/EM_REG.v" into library work
+Analyzing Verilog file "E:/CO/ISE/ISE_Project/pipeline_mips_edited/DE_REG.v" into library work
+Analyzing Verilog file "E:/CO/ISE/ISE_Project/pipeline_mips_edited/Controller.v" into library work
+Analyzing Verilog file "E:/CO/ISE/ISE_Project/pipeline_mips_edited/CMP.v" into library work
+Analyzing Verilog file "E:/CO/ISE/ISE_Project/pipeline_mips_edited/ALU.v" into library work
+Analyzing Verilog file "E:/CO/ISE/ISE_Project/pipeline_mips_edited/mips.v" into library work
+Analyzing Verilog file "E:/CO/ISE/ISE_Project/pipeline_mips_edited/mips_tb.v" into library work
+Analyzing Verilog file "E:/CO/ISE/ISE_software/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:1016 - "E:/CO/ISE/ISE_Project/pipeline_mips_edited/mips.v" Line 161: Port GRF_enable is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/CO/ISE/ISE_Project/pipeline_mips_edited/mips.v" Line 286: Port NPC_sel is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/CO/ISE/ISE_Project/pipeline_mips_edited/mips.v" Line 405: Port NPC_sel is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/CO/ISE/ISE_Project/pipeline_mips_edited/mips.v" Line 508: Port NPC_sel is not connected to this instance
+Completed static elaboration
+Compiling module PC
+Compiling module NPC
+Compiling module FD_REG
+Compiling module Controller
+Compiling module GRF
+Compiling module CMP
+Compiling module EXT
+Compiling module DE_REG
+Compiling module ALU
+Compiling module MDU
+Compiling module EM_REG
+Compiling module StoreType
+Compiling module LoadType
+Compiling module MW_REG
+Compiling module mips
+Compiling module mips_txt
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 17 Verilog Units
+Built simulation executable E:/CO/ISE/ISE_Project/pipeline_mips_edited/mips_txt_isim_beh.exe
+Fuse Memory Usage: 38936 KB
+Fuse CPU Usage: 327 ms
